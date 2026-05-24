@@ -36,8 +36,8 @@
 ---
 
 ## 📞 Контакти
-📧 Email: example@gmail.com  
-📱 Telegram: @telegram
+📧 Email: mariakarvatska2008@gmail.com  
+📱 Mobile: +380 97 335 6403
 
 ---
 
