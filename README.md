@@ -1,22 +1,45 @@
-# KN_32_Maria_Karvatska_2025
+# 🌐 Student Portfolio
 
-### РОБОТИ ООП
+## 👋 Про мене
+Привіт! Мене звати Марія Карвацька.  
+Я студентка та вивчаю WEB-технології, HTML, CSS, JavaScript та Python.
+
 ---
 
-### ВЛАСНИЦЯ РЕПОЗИТОРІЮ
-* Ім'я : Марія
-* Група : КН-32
-* Коледж : IT college of Lviv Polytechnic
+## 💻 Мої роботи
 
-### NUMBERED LIST OF FUTURE WORKS
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-----
+### 📌 Лабораторні роботи
+- [1](/1_lab/photo/README.md)
+- [2](/2_lab/README.md)
+- [3](/3_lab/README.md)
+- [4](/4_lab/README.md)
+- [5](/5_lab/README.md)
+- [6](/6_lab/README.md)
+- [7](/7_lab/README.md)
+- [8](/8_lab/my_project/tests/__init__.py)
+- [9](/9_lab/_config.yml)
+
+### 🎨 WEB-дизайн
+- Створення багатосторінкових сайтів
+- Адаптивний дизайн
+- Робота з Figma
+
+---
+
+## 🛠 Технології
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- GitHub
+
+---
+
+## 📞 Контакти
+📧 Email: example@gmail.com  
+📱 Telegram: @telegram
+
+---
+
+## 🚀 GitHub Pages
+Сайт створений за допомогою GitHub Pages.
